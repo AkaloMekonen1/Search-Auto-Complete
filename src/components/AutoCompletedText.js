@@ -5,9 +5,7 @@ import React from 'react';
         constructor(){
             super()
         }
-        square = (x) =>{return x*x}
         render(){
-            console.log(this.square(4))
             return (
                 <div>
                    <p>Yes</p>

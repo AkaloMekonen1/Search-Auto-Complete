@@ -8,7 +8,7 @@ import React from 'react';
         render(){
             return (
                 <div>
-                   <p>Yes</p>
+                     <input type="text" />
                 </div>
             )
         }
